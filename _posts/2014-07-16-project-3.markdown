@@ -9,5 +9,5 @@ project-date: May 2017
 project-end-date : July 2017
 role : Software Dev Intern
 tech-stack: Java, Apache Spark, git, Kapacitor
-description: Software Development intern at Sprinklr. Worked on designing Spark Processing jobs for filtering out the relevant data from millions of record stored in Hdfs in Parquet format while minimizing the shuffling of records and maximizing time efficiency. Integrated anomaly detection in the system using real-time streaming data processing engine kapacitor with the data being streamed from InfluxDB.
+description: Software Development intern at Sprinklr. Worked on designing Spark Processing jobs for filtering out the relevant data from millions of record stored in Hdfs in Parquet format while minimizing the shuffling of records and maximizing time efficiency. Integrated anomaly detection in the system using real-time streaming data processing engine kapacitor with the data being streamed from InfluxDB. Integrated a data vendor to provide the user details for better ad targeting.
 ---
