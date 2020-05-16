@@ -8,6 +8,6 @@ img: tower.png
 alt: image-alt
 project-date: July 2019
 role : Software Developer
-category: Web Development
+Tech-stack: C++, Python, Apache Spark, MongoDB, PostgresSQL
 description: Core engineering software developer in Historical Market Data and simulation team. Decreased the metadata fetch latency by 9X using mongocxx. Designed and implemented and API for accessing the metadata from the mongodb using flask server and OAuth authentication using tower internal tool. Efficiently archived ~200TBs using Apache Spark. 
 ---

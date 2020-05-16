@@ -1,11 +1,14 @@
 ---
+title: TU - Kaiserslautern
+company: Tu - Kaiserslautern
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2014-07-18
+img: tu-kl.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2018
+project-end-date : July 2018
+role : Research Intern
+Tech-stack: Java, Apache Storm
+description: Undergraduate Research Intern at DBIS ( Databases and Information Systems Group ). Under guidance of Professor Sebastian Michel, formulated the problem of multiattribute similarity join of JSON documents received from multiple data streams. Developed a new partitioning algorithm; performed experiments using Apache Storm on cluster of machines
 ---
