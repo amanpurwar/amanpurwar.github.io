@@ -1,12 +1,13 @@
 ---
-title: Hello world
+title: Tower Research Capital
+company: Tower Research Capital
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: July 2019
+role : Software Developer
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Core engineering software developer in Historical Market Data and simulation team. Decreased the metadata fetch latency by 9X using mongocxx. Designed and implemented and API for accessing the metadata from the mongodb using flask server and OAuth authentication using tower internal tool. Efficiently archived ~200TBs using Apache Spark. 
 ---
