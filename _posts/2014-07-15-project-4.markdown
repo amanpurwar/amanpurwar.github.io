@@ -2,13 +2,12 @@
 company: Bushlark
 layout: default
 modal-id: 4
-date: 2014-07-18
+date: 2014-07-15
 img: bushlark.png
 alt: image-alt
 project-date: June 2016
 project-end-date : July 2016
 role : Software Dev Intern
 tech-stack: Java, MongoDB
-description: Software Development intern at Bushlark. Designed & developed an engine to periodically fetch tweets from twitter based on certain rules and then store them in MongoDb enriched with the IBM Watson taxonomy of the interest of user. Also implemented a system to calculate interest of the user based on the context of the user activity
-retrieved from Watson taxonomy.
+description: Software Development intern at Bushlark. Designed & developed an engine to periodically fetch tweets from twitter based on certain rules and then store them in MongoDb enriched with the IBM Watson taxonomy of the interest of user.
 ---
