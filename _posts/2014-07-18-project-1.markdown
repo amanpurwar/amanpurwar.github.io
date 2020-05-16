@@ -4,7 +4,7 @@ company: Tower Research Capital
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: tower.png
 alt: image-alt
 project-date: July 2019
 role : Software Developer
