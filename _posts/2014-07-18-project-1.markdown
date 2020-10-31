@@ -9,5 +9,5 @@ alt: image-alt
 project-date: July 2019
 role : Software Developer
 tech-stack: C++, Python, Apache Spark, MongoDB, PostgresSQL
-description: Core engineering software developer in Historical Market Data and simulation team. Decreased the metadata fetch latency by 9X using mongocxx. Designed and implemented and API for accessing the metadata from the mongodb using flask server and OAuth authentication using tower internal tool. Efficiently archived ~200TBs using Apache Spark. 
+description: Core engineering software developer in Historical Market Data team. I work mainly on scalable derived data generation, a high-performance data visualization tool, and low latency research library. I have worked on using apache spark to archive 200TBs of Market data to save space during cloud migration. I have also worked extensively with SQL and NoSQL databases both as a developer and an administrator.
 ---
