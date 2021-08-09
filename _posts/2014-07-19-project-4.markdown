@@ -1,0 +1,13 @@
+---
+title: Aman Kumar Purwar
+company: Google
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: google.png
+alt: image-alt
+project-date: Aug 2021
+role : Software Developer
+tech-stack: C++
+description: Incoming Sofware Engineer in Google search's Knowledge Graph Team.
+---
