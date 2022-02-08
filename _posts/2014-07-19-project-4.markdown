@@ -7,7 +7,8 @@ date: 2014-07-18
 img: google.png
 alt: image-alt
 project-date: Aug 2021
+project-end-date: Nov 2021
 role : Software Developer
 tech-stack: C++
-description: Incoming Sofware Engineer in Google search's Knowledge Graph Team.
+description: Sofware Engineer in Google search's Knowledge Graph Team.
 ---
