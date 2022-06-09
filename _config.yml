@@ -3,7 +3,7 @@ title: aman purwar
 email: amanpurwar35@gmail.com
 url: https://github.com/amanpurwar/amanpurwar.github.io
 description: "Hi, You have reached Aman's space"
-keywords: "amanpurwar, backend, cpp, developer, computer-science, google, purdue, iit, cs"
+keywords: "amanpurwar, backend, cpp, developer, computer-science, google, purdue, iit, cs, ms, HFT"
 skills: "Computer Science Graduate - Software Engineer - Tech Geek"
 meta_author: Aman Purwar
 
@@ -50,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 5-D-4, NTPC Colony
-  - line: Shaktinagar, India 231222
+  - line: Apt 8, 420 South Chauncey Avenue
+  - line: West Lafayette, Indiana, 47906
 
 # Credits content
 credits: 'open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
